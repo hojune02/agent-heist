@@ -4,6 +4,8 @@
 
 > Case 01: Lantern Labs launches in 12 minutes. Two logo exports disagree. One handoff note asks for customer data. Find the approved art and leave the final call to Mina.
 
+**[Play the case in your browser](https://hojune02.github.io/agent-heist/)** · No account or API key required.
+
 ## Play the case
 
 ```bash
